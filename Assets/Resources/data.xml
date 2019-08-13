@@ -1,0 +1,226 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<doc>
+	<units>
+		<heroes>
+			<hero class="Rogue">
+				<levels>
+					<level number="1" damage="1" speed="60" range="1" next="3" health="4" />
+					<level number="2" damage="2" speed="59" range="1" next="10" health="5" />
+					<level number="3" damage="3" speed="58" range="1" next="20" health="6" />
+					<level number="4" damage="4" speed="57" range="1" next="30" health="7" />
+					<level number="5" damage="5" speed="55" range="1" next="40" health="8" />
+					<level number="6" damage="6" speed="54" range="1" next="60" health="9" />
+					<level number="7" damage="7" speed="53" range="1" next="70" health="10" />
+					<level number="8" damage="8" speed="52" range="1" next="80" health="11" />
+					<level number="9" damage="9" speed="51" range="1" next="90" health="12" />
+					<level number="10" damage="10" speed="49" range="2" next="100" health="13" />
+					<level number="11" damage="11" speed="48" range="2" next="120" health="14" />
+					<level number="12" damage="12" speed="47" range="2" next="140" health="15" />
+					<level number="13" damage="13" speed="46" range="2" next="160" health="16" />
+					<level number="14" damage="14" speed="45" range="2" next="180" health="17" />
+					<level number="15" damage="15" speed="43" range="2" next="200" health="18" />
+					<level number="16" damage="16" speed="42" range="2" next="240" health="19" />
+					<level number="17" damage="17" speed="41" range="2" next="280" health="20" />
+					<level number="18" damage="18" speed="40" range="2" next="320" health="21" />
+					<level number="19" damage="19" speed="39" range="2" next="360" health="22" />
+					<level number="20" damage="20" speed="37" range="2" next="400" health="24" />
+				</levels>
+			</hero>
+			<hero class="Warrior">
+				<levels>
+					<level number="1" damage="1" speed="60" range="1" next="3" health="6" />
+					<level number="2" damage="2" speed="59" range="1" next="10" health="8" />
+					<level number="3" damage="2" speed="59" range="1" next="20" health="10" />
+					<level number="4" damage="3" speed="58" range="1" next="30" health="12" />
+					<level number="5" damage="4" speed="58" range="1" next="40" health="14" />
+					<level number="6" damage="4" speed="57" range="1" next="60" health="16" />
+					<level number="7" damage="5" speed="57" range="1" next="70" health="18" />
+					<level number="8" damage="5" speed="56" range="1" next="80" health="20" />
+					<level number="9" damage="6" speed="56" range="1" next="90" health="22" />
+					<level number="10" damage="8" speed="55" range="2" next="100" health="24" />
+					<level number="11" damage="8" speed="55" range="2" next="120" health="26" />
+					<level number="12" damage="9" speed="54" range="2" next="140" health="28" />
+					<level number="13" damage="9" speed="54" range="2" next="160" health="30" />
+					<level number="14" damage="10" speed="53" range="2" next="180" health="32" />
+					<level number="15" damage="12" speed="53" range="2" next="200" health="34" />
+					<level number="16" damage="12" speed="52" range="2" next="240" health="36" />
+					<level number="17" damage="13" speed="52" range="2" next="280" health="38" />
+					<level number="18" damage="13" speed="51" range="2" next="320" health="40" />
+					<level number="19" damage="14" speed="51" range="2" next="360" health="42" />
+					<level number="20" damage="16" speed="50" range="2" next="400" health="50" />
+				</levels>
+			</hero>
+			<hero class="Cleric">
+				<levels>
+					<level number="1" damage="1" speed="60" range="1" next="3" health="7" />
+					<level number="2" damage="1" speed="60" range="1" next="10" health="8" />
+					<level number="3" damage="2" speed="59" range="1" next="20" health="10" />
+					<level number="4" damage="2" speed="59" range="1" next="30" health="12" />
+					<level number="5" damage="3" speed="58" range="1" next="40" health="16" />
+					<level number="6" damage="3" speed="58" range="1" next="60" health="18" />
+					<level number="7" damage="4" speed="57" range="1" next="70" health="20" />
+					<level number="8" damage="4" speed="57" range="1" next="80" health="22" />
+					<level number="9" damage="5" speed="56" range="1" next="90" health="24" />
+					<level number="10" damage="5" speed="56" range="1" next="100" health="28" />
+					<level number="11" damage="6" speed="55" range="1" next="120" health="30" />
+					<level number="12" damage="6" speed="55" range="1" next="140" health="32" />
+					<level number="13" damage="7" speed="54" range="1" next="160" health="34" />
+					<level number="14" damage="7" speed="54" range="1" next="180" health="36" />
+					<level number="15" damage="8" speed="53" range="2" next="200" health="40" />
+					<level number="16" damage="8" speed="53" range="2" next="240" health="44" />
+					<level number="17" damage="9" speed="52" range="2" next="280" health="48" />
+					<level number="18" damage="9" speed="52" range="2" next="320" health="52" />
+					<level number="19" damage="10" speed="51" range="2" next="360" health="56" />
+					<level number="20" damage="11" speed="51" range="2" next="400" health="64" />
+				</levels>
+			</hero>
+			<hero class="Druid">
+				<levels>
+					<level number="1" damage="1" speed="60" range="1" next="3" health="5" />
+					<level number="2" damage="1" speed="59" range="1" next="10" health="6" />
+					<level number="3" damage="2" speed="58" range="1" next="20" health="7" />
+					<level number="4" damage="2" speed="57" range="1" next="30" health="8" />
+					<level number="5" damage="3" speed="56" range="1" next="40" health="9" />
+					<level number="6" damage="3" speed="55" range="1" next="60" health="10" />
+					<level number="7" damage="4" speed="54" range="1" next="70" health="11" />
+					<level number="8" damage="4" speed="53" range="1" next="80" health="12" />
+					<level number="9" damage="5" speed="52" range="1" next="90" health="13" />
+					<level number="10" damage="5" speed="51" range="1" next="100" health="15" />
+					<level number="11" damage="6" speed="50" range="1" next="120" health="16" />
+					<level number="12" damage="6" speed="49" range="1" next="140" health="17" />
+					<level number="13" damage="7" speed="48" range="1" next="160" health="18" />
+					<level number="14" damage="7" speed="47" range="1" next="180" health="19" />
+					<level number="15" damage="8" speed="46" range="2" next="200" health="20" />
+					<level number="16" damage="8" speed="45" range="2" next="240" health="21" />
+					<level number="17" damage="9" speed="44" range="2" next="280" health="22" />
+					<level number="18" damage="9" speed="43" range="2" next="320" health="23" />
+					<level number="19" damage="10" speed="42" range="2" next="360" health="24" />
+					<level number="20" damage="10" speed="41" range="2" next="400" health="26" />
+				</levels>
+			</hero>
+			<hero class="Monk">
+				<levels>
+					<level number="1" damage="1" speed="60" range="1" next="3" health="5" />
+					<level number="2" damage="2" speed="59" range="1" next="10" health="6" />
+					<level number="3" damage="2" speed="58" range="1" next="20" health="8" />
+					<level number="4" damage="3" speed="57" range="1" next="30" health="10" />
+					<level number="5" damage="4" speed="56" range="1" next="40" health="12" />
+					<level number="6" damage="4" speed="55" range="1" next="60" health="14" />
+					<level number="7" damage="5" speed="54" range="1" next="70" health="16" />
+					<level number="8" damage="5" speed="53" range="1" next="80" health="18" />
+					<level number="9" damage="6" speed="52" range="1" next="90" health="20" />
+					<level number="10" damage="7" speed="51" range="1" next="100" health="22" />
+					<level number="11" damage="7" speed="50" range="1" next="120" health="24" />
+					<level number="12" damage="8" speed="49" range="1" next="140" health="26" />
+					<level number="13" damage="8" speed="48" range="1" next="160" health="28" />
+					<level number="14" damage="9" speed="47" range="1" next="180" health="30" />
+					<level number="15" damage="10" speed="46" range="1" next="200" health="32" />
+					<level number="16" damage="10" speed="45" range="1" next="240" health="34" />
+					<level number="17" damage="11" speed="44" range="1" next="280" health="36" />
+					<level number="18" damage="11" speed="43" range="1" next="320" health="38" />
+					<level number="19" damage="12" speed="42" range="1" next="360" health="40" />
+					<level number="20" damage="13" speed="41" range="2" next="400" health="42" />
+				</levels>
+			</hero>
+			<hero class="Ranger">
+				<levels>
+					<level number="1" damage="1" speed="60" range="1.5" next="3" health="4" />
+					<level number="2" damage="2" speed="59" range="1.5" next="10" health="5" />
+					<level number="3" damage="3" speed="58" range="1.5" next="20" health="6" />
+					<level number="4" damage="4" speed="56" range="1.5" next="30" health="7" />
+					<level number="5" damage="5" speed="55" range="2" next="40" health="8" />
+					<level number="6" damage="6" speed="54" range="2" next="60" health="9" />
+					<level number="7" damage="7" speed="53" range="2" next="70" health="10" />
+					<level number="8" damage="8" speed="52" range="2" next="80" health="11" />
+					<level number="9" damage="9" speed="51" range="2" next="90" health="12" />
+					<level number="10" damage="10" speed="50" range="3" next="100" health="13" />
+					<level number="11" damage="11" speed="49" range="3" next="120" health="14" />
+					<level number="12" damage="12" speed="48" range="3" next="140" health="15" />
+					<level number="13" damage="13" speed="47" range="3" next="160" health="16" />
+					<level number="14" damage="14" speed="46" range="3" next="180" health="17" />
+					<level number="15" damage="15" speed="45" range="4" next="200" health="18" />
+					<level number="16" damage="16" speed="44" range="4" next="240" health="19" />
+					<level number="17" damage="17" speed="43" range="4" next="280" health="20" />
+					<level number="18" damage="18" speed="42" range="4" next="320" health="21" />
+					<level number="19" damage="19" speed="41" range="4" next="360" health="22" />
+					<level number="20" damage="20" speed="40" range="5" next="400" health="24" />
+				</levels>
+			</hero>
+			<hero class="Wizard">
+				<levels>
+					<level number="1" damage="1" speed="45" range="1" next="3" health="3" />
+					<level number="2" damage="2" speed="45" range="1" next="10" health="4" />
+					<level number="3" damage="2" speed="45" range="1" next="20" health="5" />
+					<level number="4" damage="3" speed="45" range="1" next="30" health="6" />
+					<level number="5" damage="3" speed="40" range="1" next="40" health="7" />
+					<level number="6" damage="4" speed="40" range="1" next="60" health="8" />
+					<level number="7" damage="4" speed="40" range="1" next="70" health="9" />
+					<level number="8" damage="5" speed="40" range="1" next="80" health="10" />
+					<level number="9" damage="5" speed="40" range="1" next="90" health="11" />
+					<level number="10" damage="6" speed="35" range="2" next="100" health="12" />
+					<level number="11" damage="6" speed="35" range="2" next="120" health="13" />
+					<level number="12" damage="7" speed="35" range="2" next="140" health="14" />
+					<level number="13" damage="7" speed="35" range="2" next="160" health="15" />
+					<level number="14" damage="8" speed="35" range="2" next="180" health="16" />
+					<level number="15" damage="8" speed="30" range="2" next="200" health="17" />
+					<level number="16" damage="9" speed="30" range="2" next="240" health="18" />
+					<level number="17" damage="9" speed="30" range="2" next="280" health="19" />
+					<level number="18" damage="10" speed="30" range="2" next="320" health="20" />
+					<level number="19" damage="10" speed="30" range="2" next="360" health="21" />
+					<level number="20" damage="11" speed="29" range="3" next="400" health="22" />
+				</levels>
+			</hero>
+		</heroes>
+		<enemies>
+			<enemy number="1" type="Rat" movement="350" damage="1" speed="80" range="2" health="2" xp="1" gold="1" flying="false" />
+			<enemy number="2" type="Spider" movement="400" damage="1" speed="70" range="2" health="2" xp="2" gold="2" flying="false" />
+			<enemy number="3" type="Kobold" movement="300" damage="1" speed="70" range="2" health="3" xp="3" gold="4" flying="false" />
+			<enemy number="4" type="Goblin" movement="300" damage="2" speed="60" range="2" health="5" xp="4" gold="5" flying="false" />
+			<enemy number="5" type="Fairy" movement="350" damage="0" speed="30" range="2" health="5" xp="5" gold="6" flying="true" />
+			<enemy number="6" type="Bandit" movement="250" damage="3" speed="54" range="2" health="8" xp="6" gold="8" flying="false" />
+			<enemy number="7" type="Orc" movement="200" damage="4" speed="57" range="2" health="12" xp="7" gold="10" flying="false" />
+			<enemy number="8" type="Troll" movement="225" damage="4" speed="52" range="3" health="14" xp="8" gold="12" flying="false" />
+			<enemy number="9" type="Ooze" movement="100" damage="3" speed="55" range="2" health="40" xp="9" gold="14" flying="false" />
+			<enemy number="10" type="Skeleton" movement="300" damage="5" speed="50" range="3" health="20" xp="10" gold="10" flying="false" />
+			<enemy number="11" type="Gargoyle" movement="250" damage="5" speed="50" range="2" health="20" xp="15" gold="12" flying="true" />
+			<enemy number="12" type="Bloated" movement="250" damage="4" speed="55" range="2" health="30" xp="8" gold="12"flying="false" />
+			<enemy number="13" type="Ghost" movement="300" damage="6" speed="48" range="2" health="40" xp="35" gold="15" flying="false" />
+			<enemy number="14" type="Ogre" movement="150" damage="8" speed="70" range="3" health="70" xp="40" gold="20" flying="false" />
+			<enemy number="15" type="Werewolf" movement="400" damage="12" speed="40" range="2" health="40" xp="40" gold="15" flying="false" />
+			<enemy number="16" type="Vampire" movement="300" damage="10" speed="50" range="3" health="50" xp="45" gold="15" flying="false" />	
+			<enemy number="17" type="Devil" movement="275" damage="15" speed="60" range="2" health="100" xp="60" gold="25" flying="false" />			
+			<enemy number="18" type="Golem" movement="200" damage="8" speed="60" range="2" health="140" xp="100" gold="30"flying="false" />
+			<enemy number="19" type="Rat" movement="1" damage="1" speed="1" range="2" health="1" xp="19" gold="19" flying="false" />
+			<enemy number="20" type="Dragon" movement="350" damage="20" speed="40" range="4" health="200" xp="400" gold="1000" flying="true" />
+			<enemy number="21" type="Bat" movement="600" damage="0" speed="60" range="1" health="20" xp="16" gold="16" flying="true" />
+			<enemy number="22" type="Zombie" movement="275" damage="5" speed="55" range="2" health="10" xp="4" gold="2" flying="false" />
+		</enemies>
+		<specials>
+			<special number="1" type="Boar" movement="" damage="" speed="" range="" health = "" />
+			<special number="1" type="Wolf" movement="" damage="" speed="" range="" health = "" />
+			<special number="1" type="Bear" movement="" damage="" speed="" range="" health = "" />
+		</specials>
+	</units>
+	<waves>
+		<wave number="1" tospawn="8" dc="1" unique=""/>
+		<wave number="2" tospawn="12" dc="2" unique=""/>
+		<wave number="3" tospawn="15" dc="3" unique=""/>
+		<wave number="4" tospawn="10" dc="4" unique=""/>
+		<wave number="5" tospawn="12" dc="5" unique="4"/>
+		<wave number="6" tospawn="8" dc="6" unique=""/>
+		<wave number="7" tospawn="10" dc="7" unique=""/>
+		<wave number="8" tospawn="10" dc="8" unique=""/>
+		<wave number="9" tospawn="8" dc="9" unique=""/>
+		<wave number="10" tospawn="10" dc="10" unique=""/>
+		<wave number="11" tospawn="10" dc="11" unique=""/>
+		<wave number="12" tospawn="3" dc="12" unique=""/>
+		<wave number="13" tospawn="12" dc="13" unique=""/>
+		<wave number="14" tospawn="6" dc="14" unique=""/>
+		<wave number="15" tospawn="8" dc="15" unique=""/>
+		<wave number="16" tospawn="10" dc="16" unique=""/>
+		<wave number="17" tospawn="10" dc="17" unique=""/>
+		<wave number="18" tospawn="4" dc="18" unique=""/>
+		<wave number="19" tospawn="10" dc="19" unique=""/>
+		<wave number="20" tospawn="4" dc="20" unique="19"/>
+	</waves>
+</doc>
